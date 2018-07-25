@@ -1,0 +1,25 @@
+
+html{
+  background-image: url("img_lights.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+
+body{
+  color: white
+  }
+
+p1{
+  text-align: right;
+}
+
+p2{
+  text-align: left;
+}
+
+p3{
+  text-align: left;
+}
